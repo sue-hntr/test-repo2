@@ -1,0 +1,73 @@
+body{
+	background-color: #FFCCFF;
+}
+#wrapper{
+	margin: 0 auto;
+/*	border: solid; */
+	padding: 10px;
+	width: 800px;
+	height: 400px;
+	background-image: url(../images/bigatomic.gif);
+	background-size: 400px 400px;
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+
+/************* COLOR BOXES *************/
+
+.c1{
+	background-color: #FF6600;
+	width: 250px;
+	height: 100px;
+}
+
+.c2{
+	background-color: #FFFF33;
+	width: 250px;
+	height: 100px;
+}
+.c3{
+	background-color: #CC66FF;
+	width: 250px;
+	height: 100px;
+}
+
+/************INLINE*****************/
+h1{
+	font-family: "Verdana", san-serif;
+	font-size: 50px;
+	color: #FFFFFF;
+}
+h2{
+	color: #909090;
+	font-family: "Arial", san-serif;
+	font-weight: lighter;
+}
+.ctrA{
+	text-align: center; 
+}
+
+
+#quote{
+font-family: Verdana;
+	font-size: 30px;
+	color: #FFFFFF;
+}
+
+#main-content{
+	padding-left: 50px;
+	float: left;
+	width: 500px;
+}
+
+a{
+	text-indent: 20px;
+	font-family: Verdana;
+	font-size: 20px;
+	color: #FFFFFF;
+
+}
+
+#footer{
+	clear: both;
+}
